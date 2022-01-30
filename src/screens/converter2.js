@@ -1,6 +1,3 @@
-// this class component is not completed (not working)
-// Hope you can tell me where is the fault.
-
 import React, { Component } from "react";
 import { View, Text, StyleSheet, TextInput, Button } from "react-native";
 
